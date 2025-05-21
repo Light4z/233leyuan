@@ -31,7 +31,7 @@ export default function generateMockData(count, type) {
       content: types.contents[contentIndex],
       media: isVideo
         ? `https://www.w3schools.com/html/mov_bbb.mp4`
-        : `https://ww2.sinaimg.cn/mw690/005EUiO2ly1hxj8yk8u5oj30m81c37d9.jpg`,
+        : `https://pic1.arkoo.com/56D0B40F99F841DF8A2425762AE2565D/picture/o_1i4qop009177v1tgf14db15he1iaj1is.jpg`,
       isVideo,
     });
   }
